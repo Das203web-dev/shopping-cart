@@ -1,0 +1,107 @@
+[
+    {
+        "id": "6478df9e83076a0338cf6be4",
+        "price": 3240.54,
+        "picture": "image/bike-1.jpg",
+        "quantity": 0,
+        "name": "Reyna Perry"
+    },
+    {
+        "id": "6478df9ec8defca4bf63374d",
+        "price": 3664.70,
+        "picture": "image/bike-2.png",
+        "quantity": 0,
+        "name": "Hunt Hall"
+    },
+    {
+        "id": "6478df9e58d741c7cf9c9856",
+        "price": 1289.92,
+        "picture": "image/bike-3.jpg",
+        "quantity": 0,
+        "name": "Rollins Haley"
+    },
+    {
+        "id": "6478df9eb6b40d62975afaa8",
+        "price": 3709.04,
+        "picture": "image/bike-4.jpg",
+        "quantity": 0,
+        "name": "Johnnie Chang"
+    },
+    {
+        "id": "6478df9e640dd684a49e329c",
+        "price": 2828.12,
+        "picture": "image/bike-5.jpg",
+        "quantity": 0,
+        "name": "Nicole Haney"
+    },
+    {
+        "id": "6478df9ee0650bbed5e50e92",
+        "price": 1201.07,
+        "picture": "image/bike-6.jpg",
+        "quantity": 0,
+        "name": "Rosie Hayes"
+    },
+    {
+        "id": "6478df9ee0650bbed5e50e99",
+        "price": 1201.07,
+        "picture": "image/bike-7.png",
+        "quantity": 0,
+        "name": "Rosie Hayes"
+    },
+    {
+        "id": "6478df9ee0650bbed5e50e93",
+        "price": 1201.07,
+        "picture": "image/bike-8.jpg",
+        "quantity": 0,
+        "name": "Rosie Hayes"
+    },
+    {
+        "id": "6478df9ee0650bbed5e50e94",
+        "price": 1201.07,
+        "picture": "image/bike-9.png",
+        "quantity": 0,
+        "name": "Rosie Hayes"
+    },
+    {
+        "id": "6478df9ee0650bbed5e50e96",
+        "price": 1201.07,
+        "picture": "image/bike-11.webp",
+        "quantity": 0,
+        "name": "Rosie Hayes"
+    },
+    {
+        "id": "6478df9ee0650bbed5e50e97",
+        "price": 1201.07,
+        "picture": "image/bike-12.webp",
+        "quantity": 0,
+        "name": "Rosie Hayes"
+    },
+    {
+        "id": "6478df9ee0650bbed5e50e98",
+        "price": 1201.07,
+        "picture": "image/bike-13.webp",
+        "quantity": 0,
+        "name": "Rosie Hayes"
+    },
+    {
+        "id": "6478df9ee0650bbed5e50e89",
+        "price": 1201.07,
+        "picture": "image/bike-14.jpg",
+        "quantity": 0,
+        "name": "Rosie Hayes"
+    },
+    {
+        "id": "6478df9ee0650bbed5e50e88",
+        "price": 1201.07,
+        "picture": "image/bike-15.jpg",
+        "quantity": 0,
+        "name": "Rosie Hayes"
+    },
+    {
+        "id": "6478df9ee0650bbed5e50e87",
+        "price": 1201.07,
+        "picture": "image/bike-16.jpg",
+        "quantity": 0,
+        "name": "Rosie Hayes"
+    }
+]

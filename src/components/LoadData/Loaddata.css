@@ -1,0 +1,107 @@
+.products-container {
+    display: grid;
+    grid-template-columns: .2fr 4fr 1fr;
+    gap: 20px;
+    padding: 20px;
+
+}
+
+.social-links-container {
+    display: flex;
+    align-items: center;
+    justify-content: baseline;
+    flex-direction: column;
+    gap: 10px;
+    text-decoration: none;
+    position: relative;
+    background: linear-gradient(45deg, white);
+    height: fit-content;
+    padding: 10px;
+    border-top-right-radius: 50%;
+}
+
+.social-links {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 4px 4px 6px red !important;
+    position: fixed;
+    top: 100px;
+}
+
+.social-links a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 4px 4px 6px red !important;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.bikes-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.cart-container {
+    /* border: 0px solid white;
+    border-radius: 10px;
+    background: black;
+    box-shadow: 2px 2px 4px #000000,
+        -2px -2px 4px #ffffff;
+    width: 100%;
+    height: max-content;
+    text-align: center;
+    /* color: rgb(249, 4, 4); */
+    color: rgb(0, 0, 0);
+    position: relative;
+    /* right: 20px; */
+}
+
+.cart-Div {
+    border: 0px solid white;
+    border-radius: 10px;
+    background: white;
+    box-shadow: 2px 2px 4px #000000,
+        -2px -2px 4px #ffffff;
+    width: 100%;
+    height: max-content;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding: 5px;
+    position: sticky;
+    top: 100px;
+}
+
+.cart-container button {
+    border: 0px solid white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background: rgba(0, 0, 0, 0.496);
+    box-shadow: 2px 2px 4px #fffcfc,
+        -2px -2px 4px #ffffff;
+    width: 100%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: rgb(170, 43, 170);
+    padding: 10px;
+    cursor: pointer;
+}
+
+.cart-container button:hover {
+    border: 0px solid green;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background: #00457c;
+    box-shadow: 2px 2px 4px #fffcfc,
+        -2px -2px 4px #ffffff;
+    width: 100%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    cursor: pointer;
+}
