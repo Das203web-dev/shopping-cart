@@ -15,6 +15,9 @@
     padding: 10px;
     color: rgb(0, 0, 0);
     font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .table-row {

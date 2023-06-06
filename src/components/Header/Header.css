@@ -11,14 +11,8 @@
     width: 100%;
     font-size: 30px;
     font-weight: bold;
-    /* text-shadow: 4px 4px 6px red; */
     position: fixed;
     top: 0;
-}
-
-.menu-icons {
-    position: absolute;
-    top: 50%;
 }
 
 .logo {
@@ -33,4 +27,35 @@
     font-weight: bold;
     font-size: 20px;
     text-shadow: 4px 4px 6px red;
+}
+
+@media only screen and (max-width:600px) {
+    .nav-bar {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        border-radius: 0px;
+        background: #ffffff;
+        box-shadow: 0px 2px 10px #dcdcdc,
+            -0px -2px 0px #454343;
+        height: auto;
+        color: black;
+        width: 100%;
+        padding: 0 5px;
+        font-size: 30px;
+        font-weight: bold;
+        position: relative;
+        /* top: 0; */
+    }
+
+    .nav-link a {
+        text-decoration: none;
+        margin-right: 10px;
+        color: black;
+        letter-spacing: 0.5px;
+        font-weight: bold;
+        font-size: 20px;
+        text-shadow: 4px 4px 6px red;
+    }
 }
